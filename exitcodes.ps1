@@ -1,0 +1,3 @@
+﻿$LastExitCode
+$?
+$Error[0]

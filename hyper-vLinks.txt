@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/try-hyper-v-powershell
+
+https://docs.microsoft.com/en-us/powershell/module/hyper-v/?view=win10-ps
+
+https://www.red-gate.com/simple-talk/sysadmin/powershell/hyper-v-powershell-basics/
+
